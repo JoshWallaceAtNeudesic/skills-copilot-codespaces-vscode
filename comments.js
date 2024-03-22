@@ -1,4 +1,4 @@
-// Create a web server
+// Create web server
 // This server listens for requests on port 3000. When a request is received,
 // the server should return the contents of the comments.json file.
 const http = require('http');
